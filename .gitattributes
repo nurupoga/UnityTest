@@ -8,7 +8,7 @@
 *.physicsMaterial2D merge=unityyamlmerge eol=lf
 *.physicsMaterial merge=unityyamlmerge eol=lf
 *.asset merge=unityyamlmerge eol=lf
-*.meta merge=unityyamlmerge eol=lf
+*.meta filter=lfs diff=lfs merge=lfs -text
 *.controller merge=unityyamlmerge eol=lf
 ## git-lfs ##
 #Image
@@ -80,3 +80,7 @@
 LightingData.asset filter=lfs diff=lfs merge=lfs -text
 *.assets filter=lfs diff=lfs merge=lfs -text
 *.cubemap filter=lfs diff=lfs merge=lfs -text
+*.metadata filter=lfs diff=lfs merge=lfs -text
+*.unwrap filter=lfs diff=lfs merge=lfs -text
+*.asest filter=lfs diff=lfs merge=lfs -text
+*.info filter=lfs diff=lfs merge=lfs -text
