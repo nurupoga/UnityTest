@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 85dcb837b0ec1d4419badfe1b3f4f9ae
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cupboard_Door_Left
+    100002: Cupboard_Door_Right
+    100004: Electric_Outlet_Exterior_Clap_01
+    100006: Electric_Outlet_Exterior_Clap_02
+    100008: Electric_Outlet_Exterior_Clap_03
+    100010: Electric_Outlet_Exterior_Clap_04
+    100012: Electric_Outlet_Interior_Clap_01
+    100014: Electric_Outlet_Interior_Clap_02
+    100016: Electric_Outlet_Interior_Clap_03
+    100018: Electric_Outlet_Interior_Clap_04
+    100020: Electric_Outlet_Interior_Clap_05
+    100022: Electric_Outlet_Interior_Clap_06
+    100024: Electric_Outlet_Interior_Clap_07
+    100026: Electric_Outlet_Interior_Clap_08
+    100028: //RootNode
+    100030: FumeHood_Door
+    100032: Window_Handle_Left
+    100034: Window_Handle_Right
+    100036: Window_Left
+    100038: Window_Right
+    100040: Window_Top
+    400000: Cupboard_Door_Left
+    400002: Cupboard_Door_Right
+    400004: Electric_Outlet_Exterior_Clap_01
+    400006: Electric_Outlet_Exterior_Clap_02
+    400008: Electric_Outlet_Exterior_Clap_03
+    400010: Electric_Outlet_Exterior_Clap_04
+    400012: Electric_Outlet_Interior_Clap_01
+    400014: Electric_Outlet_Interior_Clap_02
+    400016: Electric_Outlet_Interior_Clap_03
+    400018: Electric_Outlet_Interior_Clap_04
+    400020: Electric_Outlet_Interior_Clap_05
+    400022: Electric_Outlet_Interior_Clap_06
+    400024: Electric_Outlet_Interior_Clap_07
+    400026: Electric_Outlet_Interior_Clap_08
+    400028: //RootNode
+    400030: FumeHood_Door
+    400032: Window_Handle_Left
+    400034: Window_Handle_Right
+    400036: Window_Left
+    400038: Window_Right
+    400040: Window_Top
+    2100000: M_FumeHood
+    2100002: M_Button
+    2100004: M_Glass
+    2300000: Cupboard_Door_Left
+    2300002: Cupboard_Door_Right
+    2300004: Electric_Outlet_Exterior_Clap_01
+    2300006: Electric_Outlet_Exterior_Clap_02
+    2300008: Electric_Outlet_Exterior_Clap_03
+    2300010: Electric_Outlet_Exterior_Clap_04
+    2300012: Electric_Outlet_Interior_Clap_01
+    2300014: Electric_Outlet_Interior_Clap_02
+    2300016: Electric_Outlet_Interior_Clap_03
+    2300018: Electric_Outlet_Interior_Clap_04
+    2300020: Electric_Outlet_Interior_Clap_05
+    2300022: Electric_Outlet_Interior_Clap_06
+    2300024: Electric_Outlet_Interior_Clap_07
+    2300026: Electric_Outlet_Interior_Clap_08
+    2300028: //RootNode
+    2300030: FumeHood_Door
+    2300032: Window_Handle_Left
+    2300034: Window_Handle_Right
+    2300036: Window_Left
+    2300038: Window_Right
+    2300040: Window_Top
+    3300000: Cupboard_Door_Left
+    3300002: Cupboard_Door_Right
+    3300004: Electric_Outlet_Exterior_Clap_01
+    3300006: Electric_Outlet_Exterior_Clap_02
+    3300008: Electric_Outlet_Exterior_Clap_03
+    3300010: Electric_Outlet_Exterior_Clap_04
+    3300012: Electric_Outlet_Interior_Clap_01
+    3300014: Electric_Outlet_Interior_Clap_02
+    3300016: Electric_Outlet_Interior_Clap_03
+    3300018: Electric_Outlet_Interior_Clap_04
+    3300020: Electric_Outlet_Interior_Clap_05
+    3300022: Electric_Outlet_Interior_Clap_06
+    3300024: Electric_Outlet_Interior_Clap_07
+    3300026: Electric_Outlet_Interior_Clap_08
+    3300028: //RootNode
+    3300030: FumeHood_Door
+    3300032: Window_Handle_Left
+    3300034: Window_Handle_Right
+    3300036: Window_Left
+    3300038: Window_Right
+    3300040: Window_Top
+    4300000: FumeHood
+    4300002: Cupboard_Door_Left
+    4300004: Cupboard_Door_Right
+    4300006: Electric_Outlet_Exterior_Clap_01
+    4300008: Electric_Outlet_Exterior_Clap_02
+    4300010: Electric_Outlet_Exterior_Clap_03
+    4300012: Electric_Outlet_Exterior_Clap_04
+    4300014: Electric_Outlet_Interior_Clap_01
+    4300016: Electric_Outlet_Interior_Clap_02
+    4300018: Electric_Outlet_Interior_Clap_03
+    4300020: Electric_Outlet_Interior_Clap_04
+    4300022: Electric_Outlet_Interior_Clap_05
+    4300024: Electric_Outlet_Interior_Clap_06
+    4300026: Electric_Outlet_Interior_Clap_07
+    4300028: Electric_Outlet_Interior_Clap_08
+    4300030: Window_Top
+    4300032: FumeHood_Door
+    4300034: Window_Handle_Left
+    4300036: Window_Left
+    4300038: Window_Handle_Right
+    4300040: Window_Right
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Button
+    second: {fileID: 2100000, guid: e0cfb032beb2ee5449336d30d25baf1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FumeHood
+    second: {fileID: 2100000, guid: 0ab70db819bb5924d97b23142ae734d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glass
+    second: {fileID: 2100000, guid: 5f46f7f4849ae2d46ab711142d04bccc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: e030c04cf55bda74a8de5add3fe9836f
+timeCreated: 1554798755
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: SM_Air_Lock_Chamber
+    100002: SM_Box_structure
+    100004: SM_Glass_Main_door
+    100006: SM_Glass_Small_Door
+    100008: SM_Glass_Small_Door_Inside
+    100010: SM_Gloves
+    100012: //RootNode
+    100014: SM_Inside_Door
+    100016: SM_Main_Door
+    100018: SM_Outside_Door
+    100020: SM_Pressure_Controller
+    400000: SM_Air_Lock_Chamber
+    400002: SM_Box_structure
+    400004: SM_Glass_Main_door
+    400006: SM_Glass_Small_Door
+    400008: SM_Glass_Small_Door_Inside
+    400010: SM_Gloves
+    400012: //RootNode
+    400014: SM_Inside_Door
+    400016: SM_Main_Door
+    400018: SM_Outside_Door
+    400020: SM_Pressure_Controller
+    2100000: Glass_Parts
+    2100002: Opaque_Parts
+    2300000: SM_Air_Lock_Chamber
+    2300002: SM_Box_structure
+    2300004: SM_Glass_Main_door
+    2300006: SM_Glass_Small_Door
+    2300008: SM_Glass_Small_Door_Inside
+    2300010: SM_Gloves
+    2300012: //RootNode
+    2300014: SM_Inside_Door
+    2300016: SM_Main_Door
+    2300018: SM_Outside_Door
+    2300020: SM_Pressure_Controller
+    3300000: SM_Air_Lock_Chamber
+    3300002: SM_Box_structure
+    3300004: SM_Glass_Main_door
+    3300006: SM_Glass_Small_Door
+    3300008: SM_Glass_Small_Door_Inside
+    3300010: SM_Gloves
+    3300012: //RootNode
+    3300014: SM_Inside_Door
+    3300016: SM_Main_Door
+    3300018: SM_Outside_Door
+    3300020: SM_Pressure_Controller
+    4300000: SM_Chambers
+    4300002: SM_Pressure_Controller
+    4300004: SM_Gloves
+    4300006: SM_Box_structure
+    4300008: SM_Main_Door
+    4300010: SM_Glass_Main_door
+    4300012: SM_Inside_Door
+    4300014: SM_Glass_Small_Door_Inside
+    4300016: SM_Air_Lock_Chamber
+    4300018: SM_Outside_Door
+    4300020: SM_Glass_Small_Door
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Parts
+    second: {fileID: 2100000, guid: ffa50992169fd564d8566e05545a9613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opaque_Parts
+    second: {fileID: 2100000, guid: f07fc6d9660986b489ac5d35edb14a9f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

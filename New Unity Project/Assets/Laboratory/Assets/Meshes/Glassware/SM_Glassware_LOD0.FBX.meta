@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: a7f6ab24abccf4f4dbe55657771fe133
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: GlassWare
+    100002: Glassware_BacDown
+    100004: Glassware_BacUp
+    100006: Glassware_Door
+    100008: //RootNode
+    100010: SM_GlassWare
+    100012: SM_GlasswareBacDown
+    100014: SM_GlasswareBacUp
+    100016: SM_GlasswareDoor
+    400000: GlassWare
+    400002: Glassware_BacDown
+    400004: Glassware_BacUp
+    400006: Glassware_Door
+    400008: //RootNode
+    400010: SM_GlassWare
+    400012: SM_GlasswareBacDown
+    400014: SM_GlasswareBacUp
+    400016: SM_GlasswareDoor
+    2100000: M_Glassware
+    2100002: M_GlasswareBac
+    2300000: GlassWare
+    2300002: Glassware_BacDown
+    2300004: Glassware_BacUp
+    2300006: Glassware_Door
+    2300008: SM_GlassWare
+    2300010: SM_GlasswareBacDown
+    2300012: SM_GlasswareBacUp
+    2300014: SM_GlasswareDoor
+    3300000: GlassWare
+    3300002: Glassware_BacDown
+    3300004: Glassware_BacUp
+    3300006: Glassware_Door
+    3300008: SM_GlassWare
+    3300010: SM_GlasswareBacDown
+    3300012: SM_GlasswareBacUp
+    3300014: SM_GlasswareDoor
+    4300000: GlassWare
+    4300002: Glassware_BacDown
+    4300004: Glassware_BacUp
+    4300006: Glassware_Door
+    4300008: SM_GlassWare
+    4300010: SM_GlasswareBacDown
+    4300012: SM_GlasswareDoor
+    4300014: SM_GlasswareBacUp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glassware
+    second: {fileID: 2100000, guid: c54a4aec34753884387cb619f54f4b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_GlasswareBac
+    second: {fileID: 2100000, guid: b25e4486334131c42b8a39105e15dd1d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
